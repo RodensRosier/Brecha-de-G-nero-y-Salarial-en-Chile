@@ -31,13 +31,11 @@ Efecto Educación: A mayor nivel educativo, la brecha tiende a [aumentar/disminu
 ## Dashboard y gráficos estadísticos.
 
 ## Cómo Ejecutar el Proyecto
-bash
-git clone https://github.com
-cd brecha-salarial-chile
-pip install -r requirements.txt
-python main.py
-Use code with caution.
-
-💡 Consejo para tu GitHub:
-Una vez que crees el archivo README.md, asegúrate de incluir una imagen o captura de pantalla de tu gráfico de barras o tu dashboard de Tableau. Los reclutadores suelen mirar primero lo visual antes de leer el código.
-¿Te gustaría que te ayude a redactar la conclusión técnica de este análisis para incluirla en el párrafo de "Hallazgos Clave"?
+### bash
+```
+    git clone https://github.com
+    cd brecha-salarial-chile
+    pip install -r requirements.txt
+    python main.py
+    Use code with caution.
+```
