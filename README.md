@@ -9,14 +9,14 @@ Este repositorio contiene un análisis estadístico y técnico sobre las dispari
 • Librerías de Análisis: Pandas, NumPy <br>
 • Visualización: Tableau <br>
 • Entorno Cloud: Google Cloud Platform (GCP) <br>
-•BigQuery (Para procesamiento masivo)
+• BigQuery (Para procesamiento masivo)
 
 ### Metodología (Pipeline ETL)
 • Extracción: Obtención de microdatos desde el portal de datos abiertos del INE Chile. <br>
 • Transformación (Limpieza): <br>
-    Tratamiento de valores nulos y registros atípicos (outliers).
-    Normalización de variables de ingresos y categorías de ocupación.
-    Análisis: Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción.
+    Tratamiento de valores nulos y registros atípicos (outliers). <br>
+    Normalización de variables de ingresos y categorías de ocupación. <br>
+    Análisis: Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción. <br>
     Carga/Visualización: Exportación de resultados a un Dashboard interactivo en Tableau.
 
 ### Hallazgos Claves
