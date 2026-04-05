@@ -25,8 +25,8 @@ Este repositorio contiene un análisis estadístico y técnico sobre las dispari
 • Efecto Educación: A mayor nivel educativo, la brecha tiende a [aumentar/disminuir] según los datos procesados. <br>
 
 ### Estructura del Repositorio
-• /data: Diccionarios de datos y fuentes.
-• /notebooks: Jupyter Notebooks con el Análisis Exploratorio (EDA).
+• /data: Diccionarios de datos y fuentes. <br>
+• /notebooks: Jupyter Notebooks con el Análisis Exploratorio (EDA). <br>
 • /scripts: Scripts de Python para la automatización del proceso.
 
 ### Dashboard y gráficos estadísticos.
