@@ -18,7 +18,7 @@ Normalización de variables de ingresos y categorías de ocupación.
 Análisis: Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción.
 Carga/Visualización: Exportación de resultados a un Dashboard interactivo en Tableau.
 
-## Hallazgos Clave
+## Hallazgos Claves
 Brecha Promedio: Se identificó una brecha salarial del XX% a nivel nacional.
 Sectores Críticos: El sector de Minería presenta la brecha más alta, mientras que Tecnología muestra una tendencia a la reducción.
 Efecto Educación: A mayor nivel educativo, la brecha tiende a [aumentar/disminuir] según los datos procesados.
