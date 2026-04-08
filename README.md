@@ -37,8 +37,7 @@ Este repositorio contiene un análisis estadístico y técnico sobre las dispari
     git clone https://github.com
     cd brecha-salarial-chile
     pip install -r requirements.txt
-    python main.py
-    Use code with caution.
+    python script.py
 ```
 
 ### Fuentes
