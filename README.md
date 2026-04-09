@@ -2,7 +2,7 @@
 Análisis de la Brecha Salarial de Género en Chile (2016-2026).
 
 ### Stack Tecnológico
-**• Lenguaje:** Python 3.10 <br>
+**• Lenguajes de programación:** Python 3.10, SQL <br>
 **• Librerías de Análisis:** Pandas, NumPy <br>
 **• Visualización:** Tableau <br>
 **• Entorno Cloud:** Google Cloud Platform (GCP) BigQuery para el procesamiento masivo.
