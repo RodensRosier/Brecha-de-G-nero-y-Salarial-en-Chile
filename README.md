@@ -1,5 +1,5 @@
 # Brecha de Género y Salarial en Chile
-### Análisis de la Brecha Salarial de Género en Chile (2016-2026).
+Análisis de la Brecha Salarial de Género en Chile (2016-2026).
 
 ### Stack Tecnológico
 **• Lenguaje:** Python 3.10 <br>
@@ -9,7 +9,7 @@
 
 ### Metodología (Pipeline ETL)
 **• Extracción:** Obtención de microdatos desde el portal de datos abiertos del INE Chile. <br>
-• Transformación (Limpieza): Tratamiento de valores nulos y registros atípicos (outliers) y normalización de variables de ingresos y categorías de ocupación. <br>
+**• Transformación (Limpieza):** Tratamiento de valores nulos y registros atípicos (outliers) y normalización de variables de ingresos y categorías de ocupación. <br>
 **• Análisis:** Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción. <br>
 **• Carga/Visualización:** Exportación de resultados a un Dashboard interactivo en Tableau.
 
