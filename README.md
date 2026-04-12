@@ -1,18 +1,10 @@
 # Brecha de Género y Salarial en Chile
-Análisis de la Brecha Salarial de Género en Chile (2016-2026).
+Análisis de la Brecha Salarial de Género en Chile
 
 ### Fuentes
 **• INE Chile** <br>
 **• ...**<br>
 **• ...**
-
-### Cómo Ejecutar el Proyecto
-```
-    git clone https://github.com
-    cd brecha-salarial-chile
-    pip install -r requirements.txt
-    python script.py
-```
 
 ### Stack Tecnológico
 **• Lenguajes de programación:** Python 3.10, SQL. <br>
@@ -38,3 +30,11 @@ Análisis de la Brecha Salarial de Género en Chile (2016-2026).
 
 ### Dashboard y gráficos estadísticos.
 <br>
+
+### Cómo Ejecutar el Proyecto
+```
+    git clone https://github.com
+    cd brecha-salarial-chile
+    pip install -r requirements.txt
+    python script.py
+```
